@@ -1,0 +1,14 @@
+* {
+	color: white;
+}
+
+body {
+	background-image: url(../images/image5.jpeg);
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+#wrapper {
+	max-width: 1500px;
+	margin: 100px auto;
+}

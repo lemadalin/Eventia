@@ -2,6 +2,20 @@
 
 Eventia is the perfect place for people who are looking to buy tickets to their favourite artists, all around the world.
 
+## Technologies used
+
+*Frontend:*
+* HTML/CSS/JavaScript
+* Materialize
+* jQuery
+* AJAX, JSON
+
+*Backend:*
+* Java EE
+* JAX-RS
+* Jackson
+* MySQL
+
 ## Getting Started
 
 ### Prerequisites
